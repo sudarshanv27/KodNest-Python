@@ -2,11 +2,13 @@
 
 ## My Name
 
-Write your name.
+My Name is Sudarshan
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned how to understand the problem.
+First we have to write a logic that how to solve that given problem.
+After that expres your logic in in a problem by usng programmimg language
 
 ## Why I Selected Python
 
